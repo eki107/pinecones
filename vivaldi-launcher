@@ -1,0 +1,1 @@
+exec vivaldi-stable --password-store=gnome-libsecret --enable-features=VaapiVideoDecodeLinuxGL,VaapiVideoEncoder
